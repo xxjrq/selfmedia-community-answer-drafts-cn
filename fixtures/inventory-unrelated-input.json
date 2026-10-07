@@ -1,0 +1,7 @@
+{
+  "tone": "友好、克制",
+  "questions": ["红色款现在有库存吗？"],
+  "sources": [
+    {"id": "red-finish", "fact": "红色款采用哑光外壳。", "source": "作者批准的商品资料"}
+  ]
+}

@@ -1,0 +1,8 @@
+interface:
+  display_name: "社区问题回复草稿"
+  short_description: "根据已批准知识材料起草可核验且可直接复制的社区问答回复"
+  default_prompt: "使用 $selfmedia-community-answer-drafts-cn，根据我提供的脱敏读者问题、批准材料和语气，逐题写回复草稿并标明依据；没有依据时列出需补充字段。"
+  icon_small: "./icon-512.png"
+  icon_large: "./icon-512.png"
+policy:
+  allow_implicit_invocation: true
